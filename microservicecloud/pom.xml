@@ -33,15 +33,18 @@
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
+			8.0.15
 			<dependency>
 				<groupId>mysql</groupId>
 				<artifactId>mysql-connector-java</artifactId>
-				<version>5.0.4</version>
+				<version>8.0.15</version>
+				<!--<version>5.0.4</version>-->
 			</dependency>
 			<dependency>
 				<groupId>com.alibaba</groupId>
 				<artifactId>druid</artifactId>
-				<version>1.0.31</version>
+				<version>1.1.16</version>
+				<!--<version>1.0.31</version>-->
 			</dependency>
 			<dependency>
 				<groupId>org.mybatis.spring.boot</groupId>
